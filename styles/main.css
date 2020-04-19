@@ -1,1 +1,7 @@
 html, body { height: 100% }
+
+.main-content { background: #c3c3c3 }
+
+#click-btn { background: darkblue; color: aquamarine; width: 120px; height: 80px; }
+
+p { font-size: 18px; font-weight: 800; }
